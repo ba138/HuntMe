@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42284075499",
+    "project_id": "hunt-me-8d331",
+    "storage_bucket": "hunt-me-8d331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42284075499:android:d773aff25ea623e1a5f1ae",
+        "android_client_info": {
+          "package_name": "com.example.hunt_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42284075499-osljcsrn893dfmhbu837d3gak98fakh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNSUj-ycESZ0Hk8w8SWUCSCsPTHMLGPDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42284075499-osljcsrn893dfmhbu837d3gak98fakh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
